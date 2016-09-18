@@ -1,0 +1,17 @@
+{
+  "name": "git shell",
+  "version": "1.0.0",
+  "description": "git shell",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+  	"gitbook-plugin-edit-link": "^2.0.2",
+  	"gitbook-plugin-github": "^2.0.0"
+  },
+  "author": "ganzwen@gmail.com",
+  "homepage": "",
+  "license": "ISC"
+}

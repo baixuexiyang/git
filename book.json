@@ -1,0 +1,19 @@
+{
+  "gitbook": "2.x.x",
+  "plugins": ["edit-link", "github"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/baixuexiyang/git",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/baixuexiyang/git"
+    }
+  },
+  "links": {
+    "sharing": {
+      "facebook": true,
+      "twitter": true
+    }
+  }
+}
